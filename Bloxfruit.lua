@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("ยังไม่พร้อมใช้งาน")
+loadstring(game:HttpGet(("https://pastebin.com/raw/cx1PKhzx"), true))()
